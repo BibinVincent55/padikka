@@ -1,7 +1,7 @@
 from StudentClass import Student
 
 # create a new student instance
-student1 = Student("Agrah", "India", 22)
+student1 = Student("Bibin", "India", 22)
 
 # display student details
 student1.display_student_details()
